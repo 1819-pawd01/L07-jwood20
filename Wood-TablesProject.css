@@ -1,0 +1,42 @@
+/*
+* Julia Wood
+* November 13, 2018
+* Tables Project
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+body {
+    background-color: lavenderblush;
+    color: black;
+    font-family: "courier new";
+} 
+
+a:link {
+    color: lavender;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+a:active {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+a:focus {
+    color: blueviolet;
+    text-decoration: underline;
+}
